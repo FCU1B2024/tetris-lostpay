@@ -1,2 +1,3 @@
 ﻿  tetris_d1128429.c
-  tetris_D1128429.vcxproj -> C:\Users\User\Downloads\dino\tetris-lostpay\x64\Debug\tetris_D1128429.exe
+C:\Users\User\Downloads\tetris-lostpay\tetris_d1128429.c(307,11): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  tetris_D1128429.vcxproj -> C:\Users\User\Downloads\tetris-lostpay\x64\Debug\tetris_D1128429.exe
